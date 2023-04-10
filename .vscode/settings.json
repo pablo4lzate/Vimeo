@@ -1,0 +1,27 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "lib/SeleniumWebDriver"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Program Files\\SeleniumWebDriver\\selenium-api-4.8.2-sources.jar",
+        "c:\\Program Files\\SeleniumWebDriver\\selenium-chrome-driver-4.8.2-sources.jar",
+        "c:\\Program Files\\SeleniumWebDriver\\selenium-chromium-driver-4.8.2-sources.jar",
+        "c:\\Program Files\\SeleniumWebDriver\\selenium-devtools-v85-4.8.2-sources.jar",
+        "c:\\Program Files\\SeleniumWebDriver\\selenium-devtools-v109-4.8.2-sources.jar",
+        "c:\\Program Files\\SeleniumWebDriver\\selenium-devtools-v110-4.8.2-sources.jar",
+        "c:\\Program Files\\SeleniumWebDriver\\selenium-devtools-v111-4.8.2-sources.jar",
+        "c:\\Program Files\\SeleniumWebDriver\\selenium-edge-driver-4.8.2-sources.jar",
+        "c:\\Program Files\\SeleniumWebDriver\\selenium-firefox-driver-4.8.2-sources.jar",
+        "c:\\Program Files\\SeleniumWebDriver\\selenium-http-4.8.2-sources.jar",
+        "c:\\Program Files\\SeleniumWebDriver\\selenium-ie-driver-4.8.2-sources.jar",
+        "c:\\Program Files\\SeleniumWebDriver\\selenium-java-4.8.2-sources.jar",
+        "c:\\Program Files\\SeleniumWebDriver\\selenium-json-4.8.2-sources.jar",
+        "c:\\Program Files\\SeleniumWebDriver\\selenium-manager-4.8.2-sources.jar",
+        "c:\\Program Files\\SeleniumWebDriver\\selenium-remote-driver-4.8.2-sources.jar",
+        "c:\\Program Files\\SeleniumWebDriver\\selenium-safari-driver-4.8.2-sources.jar",
+        "c:\\Program Files\\SeleniumWebDriver\\selenium-support-4.8.2-sources.jar"
+    ]
+}
